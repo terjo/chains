@@ -1,6 +1,6 @@
 {
-  "name": "Fastex Chain (Bahamut) Oasis Testnet",
-  "title": "Bahamut testnet Oasis",
+  "name": "Oasis Testnet (Bahamut)",
+  "title": "Bahamut Oasis testnet",
   "icon": "bahamut",
   "chain": "Fastex Chain (Bahamut)",
   "rpc": ["https://rpc1.oasis.bahamutchain.com"],
@@ -11,7 +11,7 @@
     "symbol": "FTN",
     "decimals": 18
   },
-  "infoURL": "https://fastexchain.com",
+  "infoURL": "https://bahamut.io",
   "shortName": "Oasis",
   "chainId": 4090,
   "networkId": 4090,
